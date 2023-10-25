@@ -15,5 +15,3 @@ To offer the posibility to run this code yourself, besides I am running it in w1
 ---
 Preparing work workflow.
 [] Branch on github.
-
-
