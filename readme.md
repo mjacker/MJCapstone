@@ -1,17 +1,19 @@
-# ML based on IDS
-Machine Learning based Intrusion Detection System (IDS)
+# Machine Learning based on Intrusion Detection
+In order to detect malicious activity in a network a machine learning is used to analyze the traffic behaviour in the network, and take desicion based in a pre-train model.
 
-# IDS
+This proyect code is trained using the public dataset from CSE-CIC-IDS2018 on AWS, specifically the first two days. 
+
+You can run this repository directly in a Google Colab environment in the following url [Open Google Colab.](https://githubtocolab.com/mjacker/MJCapstone/blob/master/0_merged_ipynb_files_for_google_colab.ipynb)
+
+Otherwise you can clone this repository, then install a venv enviroment using de requirements files to try it by yourself.
+
+## IDS - Intrusion Detection System
 The Intrusion Detection System developed can identify various types of cyber-attacks to protect modern networks by analysing network traffic behavior.
 
-# Machine Learning
-Traditional and advanced Machine Learning (ML) Algorithms.
-- Decition clasifier.
-- Random forest clasifier.
-- Baggin.
-
-To offer the posibility to run this code yourself, besides I am running it in w10, I will configure it to run on a google colab  at first, to load a small dataset.
+## ML - Machine Learning
+Types of machines learning applied for this proyect.
+- [x] Decition clasifier.
+- [ ] Random forest clasifier.
+- [ ] Bagging technique.
 
 ---
-Preparing work workflow.
-[] Branch on github.
