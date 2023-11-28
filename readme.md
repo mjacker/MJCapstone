@@ -5,15 +5,5 @@ This proyect code is trained using the public dataset from CSE-CIC-IDS2018 on AW
 
 You can run this repository directly in a Google Colab environment in the following url [Open Google Colab.](https://githubtocolab.com/mjacker/MJCapstone/blob/master/0_merged_ipynb_files_for_google_colab.ipynb)
 
-Otherwise you can clone this repository, then install a venv enviroment using de requirements files to try it by yourself.
 
-## IDS - Intrusion Detection System
-The Intrusion Detection System developed can identify various types of cyber-attacks to protect modern networks by analysing network traffic behavior.
-
-## ML - Machine Learning
-Types of machines learning applied for this proyect.
-- [x] Decition clasifier.
-- [ ] Random forest clasifier.
-- [ ] Bagging technique.
-
----
+For for information of this project please go to this link [Hackmd.io - Machine Learning based on Intrusion Detection](https://hackmd.io/@F11115107/ML-IDS_CIC-2018)
